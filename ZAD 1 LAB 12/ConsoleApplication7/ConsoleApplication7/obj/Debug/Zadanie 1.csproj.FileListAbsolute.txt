@@ -1,0 +1,6 @@
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\obj\Debug\Zadanie 1.csprojResolveAssemblyReference.cache
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+G:\Wstęp do programowania\ZAD 1 LAB 12\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

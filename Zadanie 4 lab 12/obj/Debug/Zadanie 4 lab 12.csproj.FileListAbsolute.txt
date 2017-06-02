@@ -1,0 +1,6 @@
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\obj\Debug\Zadanie 4 lab 12.csprojResolveAssemblyReference.cache
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\bin\Debug\Zadanie 4 lab 12.exe.config
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\bin\Debug\Zadanie 4 lab 12.exe
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\bin\Debug\Zadanie 4 lab 12.pdb
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\obj\Debug\Zadanie 4 lab 12.exe
+C:\Users\Arkadiusz\C# Programming\Zadanie 4 lab 12\Zadanie 4 lab 12\obj\Debug\Zadanie 4 lab 12.pdb

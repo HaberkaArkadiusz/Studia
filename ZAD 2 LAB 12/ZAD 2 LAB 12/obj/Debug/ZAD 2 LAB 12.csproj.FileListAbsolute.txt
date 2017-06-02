@@ -1,0 +1,5 @@
+F:\Wstęp do programowania\ZAD 2 LAB 12\ZAD 2 LAB 12\bin\Debug\ZAD 2 LAB 12.exe.config
+F:\Wstęp do programowania\ZAD 2 LAB 12\ZAD 2 LAB 12\bin\Debug\ZAD 2 LAB 12.exe
+F:\Wstęp do programowania\ZAD 2 LAB 12\ZAD 2 LAB 12\bin\Debug\ZAD 2 LAB 12.pdb
+F:\Wstęp do programowania\ZAD 2 LAB 12\ZAD 2 LAB 12\obj\Debug\ZAD 2 LAB 12.exe
+F:\Wstęp do programowania\ZAD 2 LAB 12\ZAD 2 LAB 12\obj\Debug\ZAD 2 LAB 12.pdb
